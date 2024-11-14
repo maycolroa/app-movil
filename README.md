@@ -74,6 +74,20 @@ Esta es la creacion de la parte de prototipado en figma de la aplicacion:
 
 ![image](https://github.com/user-attachments/assets/92a21a3c-1319-458f-babe-94830ed9c5e3)
 
+este es el link para verficar el maquetado en [Figma](https://www.figma.com/design/qqr7YzYjpIhboQEinxzydn/Untitled?node-id=0-1&node-type=canvas&t=fuzJb5sbLMq6Gl22-0)
+
+## Estructura del proyecto backend con nest
+
+esta es la estrcutura que se manejo para el backend con sus carpetas y funcionalidades en modulos
+
+![image](https://github.com/user-attachments/assets/5cf10589-1991-4944-8057-b5d20f57fb55)
+
+## Estructura del proyecto de movil con kotlin
+
+esta es la estrcutura que se manejo para el proyecto de movil con sus carpetas y funcionalidades en modulos
+
+![image](https://github.com/user-attachments/assets/dfb65962-a077-434f-af7f-f26374902fa1)
+
 ## Stay in touch
 
 - Author - [Maycol Roa](https://www.linkedin.com/in/maycol-david-roa-trivi%C3%B1o-14b27a106/)
