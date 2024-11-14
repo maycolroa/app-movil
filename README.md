@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript.
 
 ## Project setup
 
@@ -58,27 +58,27 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Resources
+## Figma 
 
-Check out a few resources that may come in handy when working with NestJS:
+Esta es la creacion de la parte de prototipado en figma de la aplicacion:
 
-- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
-- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
+![image](https://github.com/user-attachments/assets/e6f5923d-11fa-46f7-8ca5-739d5641bd4b)
 
-## Support
+![image](https://github.com/user-attachments/assets/8a06c00c-e567-40a4-8f94-c7282aff8e47)
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+![image](https://github.com/user-attachments/assets/4a5e3688-7a5c-41d7-ae3c-acdc207051ad)
+
+![image](https://github.com/user-attachments/assets/143b31dd-8691-4e1b-89f7-84dff5bbcfb3)
+
+![image](https://github.com/user-attachments/assets/ad8f510c-a4e1-4dc2-a788-71f8f5dfb70b)
+
+![image](https://github.com/user-attachments/assets/92a21a3c-1319-458f-babe-94830ed9c5e3)
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Maycol Roa](https://www.linkedin.com/in/maycol-david-roa-trivi%C3%B1o-14b27a106/)
+
+
 
 ## License
 
